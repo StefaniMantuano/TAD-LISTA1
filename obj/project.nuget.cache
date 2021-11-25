@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gA/AWHZ5A0bKMxFK/0e5ZFe/73r7W9vCn9o5X3kodQ6DrTjxGVUXk4gNfb7bABwSHMM4c/nX5ZTEYX69rllByA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CompuStore\\source\\repos\\StefaniaMantuano3b.1\\StefaniaMantuano3b.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CompuStore\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\CompuStore\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\CompuStore\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\CompuStore\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
